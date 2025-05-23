@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\bin\Debug\Small Map Virtual.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\bin\Debug\Small Map Virtual.exe
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\bin\Debug\Small Map Virtual.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small Map Virtual.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small_Map_Virtual.Form1.resources
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small_Map_Virtual.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small Map Virtual.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small Map Virtual.exe
+C:\Users\hp\documents\visual studio 2015\Projects\Small Map Virtual\Small Map Virtual\obj\Debug\Small Map Virtual.pdb
